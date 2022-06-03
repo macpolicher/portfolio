@@ -70,5 +70,3 @@ def test_successful_transaction_end_to_end():
     assert find_element_using_xpath_dynamic('//*[@class="pony_express"]')
 
 
-
-
