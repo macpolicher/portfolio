@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 from TestCases import test_login
 
-# CONSTANTS:
+# VARIABLES:
 ITEM_NAME = 'Sauce Labs Backpack'
 ITEM_PRICE = 29.99
 FIRST_NAME = 'John'
