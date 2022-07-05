@@ -1,0 +1,4 @@
+2022-07-05 09:30:42,028 :: test_valid_credentials :: INFO :: Verifying Title of Successful Login
+2022-07-05 09:30:42,028 :: test_valid_credentials :: INFO :: Title: Swag Labs is successfully verified
+2022-07-05 09:30:42,028 :: test_locked_out_credentials :: INFO :: Login with locked out credentials
+2022-07-05 09:30:42,525 :: test_locked_out_credentials :: INFO :: Successfully tested locked out user! with the message of: Epic sadface: Sorry, this user has been locked out
