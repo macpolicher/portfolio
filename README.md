@@ -1,7 +1,7 @@
 # portfolio
 My Portfolio
 
-For My Selenium Portolio:
+For My Automation Testing using Selenium Portolio:
  - Using The-Internet from Heroku: https://github.com/macpolicher/Selenium-Portfolio 
 
 For My Api Testing Portfolio:
