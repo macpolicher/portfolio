@@ -1,0 +1,7 @@
+Using Postman and newman-reporter-htmlextra
+
+1. Reqres.in:
+https://reqres.in/
+
+2. Simple Books Api Glitch Me:
+https://www.postman.com/eu6grp15/workspace/simple-books-api-glitch-me/documentation/18551292-ab5af4da-41cd-4fa3-a443-f0f6b38ec6b6
